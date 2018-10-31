@@ -1,0 +1,8 @@
+[app]
+clientid = <insert here, no ">
+clientsecret = <insert here, no ">
+
+[userspesific]
+username = <insert here, no ">
+newreleasesplaylist = <insert here, no ">
+release_radar = <insert here, no ">
